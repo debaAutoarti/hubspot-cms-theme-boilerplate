@@ -1,0 +1,8 @@
+defaultPortal: AA Autoarti Demo Account 
+portals:
+  # Sample apikey entry, manually entered
+  - name: AA Autoarti Demo Account 
+    portalId: 20290505
+    defaultMode: 'publish'
+    authType: apikey
+    apiKey: pat-na1-e7b92b89-0b71-491c-a2df-c80f40a42ddb
